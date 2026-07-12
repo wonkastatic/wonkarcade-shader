@@ -16,7 +16,7 @@ The individual shaders that make up this preset are the property of their respec
 
 - This shader preset works equally well on both vertical and horizontal games
 
-- This shader preset is compatible with all frontends and emulators capable of running .glsl shaders (retroarch, openemu, etc.)
+- This shader preset is compatible with all frontends and emulators capable of running .glsl or .slang shaders (retroarch, openemu, etc.)
 
 - The target model of this shader preset is specifically arcade monitors (Wells-Gardner, Zenith, and RCA tubes) not other types of CRT monitors such as Sony Trinitron (PVM, BVM) or consumer CRT televisions. For this reason this shader preset is intended to be used specifically with arcade games and not with console or computer games
 
@@ -29,10 +29,12 @@ The individual shaders that make up this preset are the property of their respec
 This shader preset is a fine and accurate blend of different software made by brilliant programmers who decided to share and make their talent available to everyone. My deepest respect and thanks go to them.
 
 - zfast crt shader, (c) 2017 Greg Hogan (SoltanGris42) and (c) 2023 Jose Linares (Dogway), GNU GPL
-  
+
 - image-adjustment shader, by hunterk, public domain
-  
-- kavase blur, based on Ph.D Masaki Kawase's work and a shadertoy by Kubuxu
+
+- kavase blur, based on Ph.D Masaki Kawase's work and a shadertoy by Kubuxu, CC BY-NC-SA 3.0
+
+- stock shader, by Hans-Kristian Arntzen, public domain  
 
 I hope I haven't forgotten anyone!
 
