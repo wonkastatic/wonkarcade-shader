@@ -1,6 +1,7 @@
 # **WONKARCADE - The Arcade Monitor Shader Preset**
 [![Static Badge](https://img.shields.io/badge/github-repo-green?style=flat&logo=github)](https://github.com/wonkastatic/wonkarcade-shader)
 [![Current Release](https://img.shields.io/github/release/wonkastatic/wonkarcade-shader.svg "Current Release")](https://github.com/wonkastatic/wonkarcade-shader/releases/latest)
+[![License](https://img.shields.io/github/license/wonkastatic/wonkarcade-shader?style=flat&color=red)](https://github.com/wonkastatic/wonkarcade-shader/blob/main/LICENSE)
 <!--[![Downloads](https://img.shields.io/github/downloads/wonkastatic/wonkarcade-shader/total.svg?color=red "Downloads")](https://github.com/wonkastatic/wonkarcade-shader/releases)-->
 The simple purpose of this shader preset is to mimic
 the brightness, saturation, and glow, typical of arcade CRT monitors.
